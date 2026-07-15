@@ -41,9 +41,14 @@ Tekan tombol **Start** pada Visual Studio 2019.
 - Merge seluruh fitur
 - Release v1.0
 ## Fitur Login telah selesai dibuat
-=======
 ## Pengembangan Fitur
 
 - Branch `fitur-login` digunakan untuk implementasi login.
 - Branch `fitur-crud` digunakan untuk implementasi fitur CRUD data.
+- Branch `fitur-pencarian` digunakan untuk implementasi fitur pencarian data.
 
+## Status Pengembangan
+
+- Fitur Login telah selesai dibuat.
+- Fitur CRUD telah selesai dibuat.
+- Fitur Pencarian telah selesai dibuat.
