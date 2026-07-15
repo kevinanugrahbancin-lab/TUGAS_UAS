@@ -1,6 +1,12 @@
 # Sistem Perpustakaan-Develop
 
+
 ## Deskripsi
+Aplikasi Sistem Perpustakaan berbasis Windows Forms.
+
+## Branch Develop
+
+
 Aplikasi Sistem Perpustakaan dibuat menggunakan Visual Basic .NET, SQL Server, dan RDLC Report.
 
 ## Fitur
@@ -35,3 +41,9 @@ Tekan tombol **Start** pada Visual Studio 2019.
 - Merge seluruh fitur
 - Release v1.0
 ## Fitur Login telah selesai dibuat
+=======
+## Pengembangan Fitur
+
+- Branch `fitur-login` digunakan untuk implementasi login.
+- Branch `fitur-crud` digunakan untuk implementasi fitur CRUD data.
+
